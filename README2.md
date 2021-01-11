@@ -25,11 +25,14 @@ We might ask you some really simple coding task like:
 Sort N numbers: 
 Input: [3, 5, 1, 9]
 Output: [1, 3, 5, 9]
+
+What would be time and space complexity of this task?
 ```
 ```
 Reverse the string:
 Input: "Nikola Tesla"
 Output: "alseT alokiN"
+What would be time and space complexity of this task?
 ```
      
 **Important:** The questions above are not going to be binary questions (Yes/No). If you don't know the answer we will try to help you to see how do you think. Information we get during this interview might help us to find the best suitable project for you. Also, these questions are NOT eliminatory questions!
