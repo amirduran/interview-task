@@ -1,3 +1,6 @@
+# Interview process
+On this link you can read more about ![interview process](https://github.com/amirduran/interview-task/blob/master/README2.md).
+
 # Project task
 
 Your task is to implement simple TODO application. User should be able to perform the following actions: 
