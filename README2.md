@@ -11,7 +11,15 @@ Please read the task carefuly, make sure you understand the project requirements
 
 Your project is intro to the last 3rd step.
 
-## 3. Final interview with our engineers
+## 3. Onsite interview with our engineers
+
+**NOTE:** Because of COVID-19 regulations, this interview will be online interview. Please make sure you have: 
+
+* stable internet connection
+* laptop/computer so you can present your application
+* Microphone and Camera
+
+
 In this step you will talk directly with our engineers. 
 
 First thing that we expect from you is to present the app you have developed in the previous step. You can expect some questions about implementation details and eventual bugs that we have found (for example why did you decide to implement the app that way you did and are there any ways to improve it).
